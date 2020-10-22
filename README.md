@@ -10,15 +10,20 @@
 
 #### [《海外留学人员新型冠状病毒肺炎防控指南》](https://github.com/YechengChu/covid-docs/raw/master/海外留学人员新型冠状病毒肺炎防控指南.pdf)
 
-#### 《新型冠状病毒感染的肺炎防控知识120》
+#### [《新型冠状病毒感染的肺炎防控知识120》](https://github.com/YechengChu/covid-docs/raw/master/新型冠状病毒感染的肺炎防控知识120.pdf)
 
 ### [《新型冠状病毒肺炎诊疗方案（试行第八版）》](https://github.com/YechengChu/covid-docs/raw/master/新型冠状病毒肺炎诊疗方案(试行第八版).pdf)
 此文件是由:cn:中国国家卫生健康委办公厅、国家中医药管理局办公室于2020年8月18日发布，[点击链接查看](http://www.gov.cn/zhengce/zhengceku/2020-08/19/content_5535757.htm)
 
 ### 其他文件
-《中国外文局审定新冠相关词汇180个》
-《看病英语小TIP》
-《消毒剂使用指南》
-《张文宏谈英国疫情》
-《如何解读无症状感染者》
-《人体防御病毒的免疫力究竟是什么》
+[《中国外文局审定新冠相关词汇180个》](https://github.com/YechengChu/covid-docs/raw/master/其他文件/中国外文局审定新冠相关词汇180个.pdf)
+
+[《看病英语小TIP》](https://github.com/YechengChu/covid-docs/raw/master/其他文件/看病英语小TIP.pdf)
+
+[《消毒剂使用指南》](https://github.com/YechengChu/covid-docs/raw/master/其他文件/消毒剂使用指南.pdf)
+
+[《张文宏谈英国疫情》](https://github.com/YechengChu/covid-docs/raw/master/其他文件/张文宏谈英国疫情.pdf)
+
+[《如何解读无症状感染者》](https://github.com/YechengChu/covid-docs/raw/master/其他文件/如何解读无症状感染者.pdf)
+
+[《人体防御病毒的免疫力究竟是什么》](https://github.com/YechengChu/covid-docs/raw/master/其他文件/人体防御病毒的免疫力究竟是什么.pdf)
