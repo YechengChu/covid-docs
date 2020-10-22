@@ -1,4 +1,4 @@
-# :bookmark:注意
+# :bookmark:注意：所有书籍仅供学习使用，不得用作商业用途！如有侵权，请联系删除
 - :mega:《回英国意向及机票出回国事宜》[点此查看](https://www.yuque.com/docs/share/ebf09e0e-7d1e-43b3-8a4e-61cb51335ecc?#)
 - 本repo:octocat:仅用于存放上文附录中提及的文档
 
