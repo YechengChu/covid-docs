@@ -11,5 +11,5 @@
 [《海外留学人员新型冠状病毒肺炎防控指南》](https://github.com/YechengChu/covid-docs/raw/master/海外留学人员新型冠状病毒肺炎防控指南.pdf)
 
 ### [《新型冠状病毒肺炎诊疗方案（试行第八版）》](https://github.com/YechengChu/covid-docs/raw/master/新型冠状病毒肺炎诊疗方案(试行第八版).pdf)
-此文件是由中国国家卫生健康委办公厅、国家中医药管理局办公室于2020年8月18日发布，[点击链接查看](http://www.gov.cn/zhengce/zhengceku/2020-08/19/content_5535757.htm)
+此文件是由:cn:中国国家卫生健康委办公厅、国家中医药管理局办公室于2020年8月18日发布，[点击链接查看](http://www.gov.cn/zhengce/zhengceku/2020-08/19/content_5535757.htm)
 
