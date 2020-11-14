@@ -11,6 +11,10 @@
 涵盖了诊疗方案的第二版至第七版，有助于大家对比诊疗方案的改动
 
 ### 早期文件
+#### [《新冠肺炎全民心理健康实例手册》](https://github.com/YechengChu/covid-docs/raw/master/新冠肺炎全民心理健康实例手册.pdf)
+
+#### [《新型冠状病毒肺炎健康教育手册》](https://github.com/YechengChu/covid-docs/raw/master/新型冠状病毒肺炎健康教育手册.pdf)
+
 #### [《新型冠状病毒肺炎预防手册》](https://github.com/YechengChu/covid-docs/raw/master/新型冠状病毒肺炎预防手册.pdf)
 
 #### [《张文宏教授支招防控新型冠状病毒》](https://github.com/YechengChu/covid-docs/raw/master/上海科学技术出版社-张文宏教授支招防控新型冠状病毒.pdf)
