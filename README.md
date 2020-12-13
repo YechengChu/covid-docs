@@ -1,4 +1,4 @@
-# :bookmark:注意：所有书籍仅供学习使用，不得用作商业用途！如有侵权，请联系删除
+# :bookmark:注意：所有书籍仅供学习使用，不得用作商业用途！如有侵权，请联系删除!
 - :mega:《中英机票及出回国事宜》[点此查看](https://www.yuque.com/docs/share/ebf09e0e-7d1e-43b3-8a4e-61cb51335ecc?#)
 - 本repo:octocat:仅用于存放上文附录中提及的文档
 - 此[新冠科普文档](https://shimo.im/docs/PJ8QYXyqcdjJ9P9h/read)亦可做参考
